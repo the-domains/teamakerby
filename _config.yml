@@ -1,0 +1,28 @@
+name: TeamAkerby
+favicon: null
+layout_spectrum: 0.2623056403826922
+typography_spectrum: 0.02367028035223484
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.5289396308362484
+  lightness: 0.15662913513369858
+  saturation: 0.9954998625908047
+  rhythmicContrast: 0.7906316337175667
+purpose: []
